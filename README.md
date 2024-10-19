@@ -1,1 +1,1 @@
-# pingapp4zyc
+# 用C#实现的一个简单的Ping程序

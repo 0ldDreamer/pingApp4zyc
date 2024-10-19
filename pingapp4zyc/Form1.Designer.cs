@@ -36,7 +36,7 @@
             // 
             // txtHostNameOrAddress
             // 
-            this.txtHostNameOrAddress.Location = new System.Drawing.Point(145, 35);
+            this.txtHostNameOrAddress.Location = new System.Drawing.Point(199, 39);
             this.txtHostNameOrAddress.Name = "txtHostNameOrAddress";
             this.txtHostNameOrAddress.Size = new System.Drawing.Size(485, 28);
             this.txtHostNameOrAddress.TabIndex = 0;
@@ -44,7 +44,7 @@
             // btnOK
             // 
             this.btnOK.Cursor = System.Windows.Forms.Cursors.Default;
-            this.btnOK.Location = new System.Drawing.Point(636, 35);
+            this.btnOK.Location = new System.Drawing.Point(690, 39);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 32);
             this.btnOK.TabIndex = 1;
@@ -54,9 +54,9 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(145, 94);
+            this.richTextBox1.Location = new System.Drawing.Point(82, 86);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(541, 310);
+            this.richTextBox1.Size = new System.Drawing.Size(635, 314);
             this.richTextBox1.TabIndex = 2;
             this.richTextBox1.Text = "";
             // 
@@ -65,9 +65,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 42);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(134, 18);
+            this.label1.Size = new System.Drawing.Size(188, 18);
             this.label1.TabIndex = 3;
-            this.label1.Text = "请输入ip地址：";
+            this.label1.Text = "请输入域名或ip地址：";
             // 
             // Form1
             // 
